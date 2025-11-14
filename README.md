@@ -1,8 +1,6 @@
 # Histórico de Versões do Firmware
 
-## Placa 4.5 SMD OU 4.4 
-
-## Compatível com versão e placa 4.7 com jump
+## Compatível com versão e placa 4.5 SMD OU 4.4 
 
 Este documento registra as principais alterações, melhorias e correções de bugs introduzidas em cada versão do firmware desta placa.
 
