@@ -7,9 +7,9 @@ Este documento registra as principais alterações, melhorias e correções de b
 ---
 ## [3.4.18]
 ### ✨ Novas Funcionalidades
+* Salva o último estado de conexão 4G, ou Wifi
 * Ajuste do bug das horas ( gastando muitos dados )
 * Melhoria na velocidade de downlaod via wifi
-
 ---
 
 ## [3.4.17]
